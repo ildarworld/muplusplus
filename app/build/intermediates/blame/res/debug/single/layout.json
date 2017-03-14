@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/layout/bookmark_list_item.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/layout/bookmark_list_item.xml"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/layout/explorer_item.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/layout/explorer_item.xml"
+    }
+]

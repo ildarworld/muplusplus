@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/xml/nav_prefs.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/xml/nav_prefs.xml"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/xml/geeky_prefs.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/xml/geeky_prefs.xml"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/xml/view_prefs.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/xml/view_prefs.xml"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/xml/about_prefs.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/xml/about_prefs.xml"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/xml/prefs.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/xml/prefs.xml"
+    }
+]

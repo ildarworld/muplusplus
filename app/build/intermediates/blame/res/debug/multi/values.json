@@ -1,0 +1,4031 @@
+[
+    {
+        "outputFile": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 320
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 1,
+                        "startOffset": 12486,
+                        "endLine": 258,
+                        "endColumn": 19,
+                        "endOffset": 12769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 325,
+                    "endLine": 18,
+                    "endColumn": 19,
+                    "endOffset": 570
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 2,
+                        "startOffset": 12777,
+                        "endLine": 267,
+                        "endColumn": 19,
+                        "endOffset": 13034
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 575,
+                    "endLine": 22,
+                    "endColumn": 19,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 13196,
+                        "endLine": 279,
+                        "endColumn": 19,
+                        "endOffset": 13317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endLine": 26,
+                    "endColumn": 19,
+                    "endOffset": 809
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 281,
+                        "startColumn": 4,
+                        "startOffset": 13323,
+                        "endLine": 284,
+                        "endColumn": 19,
+                        "endOffset": 13431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 814,
+                    "endLine": 31,
+                    "endColumn": 19,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 1,
+                        "startOffset": 12331,
+                        "endLine": 248,
+                        "endColumn": 19,
+                        "endOffset": 12479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endLine": 36,
+                    "endColumn": 19,
+                    "endOffset": 1106
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 13047,
+                        "endLine": 274,
+                        "endColumn": 19,
+                        "endOffset": 13186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1111,
+                    "endLine": 41,
+                    "endColumn": 19,
+                    "endOffset": 1254
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 287,
+                        "startColumn": 4,
+                        "startOffset": 13446,
+                        "endLine": 291,
+                        "endColumn": 19,
+                        "endOffset": 13589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1259,
+                    "endLine": 46,
+                    "endColumn": 19,
+                    "endOffset": 1427
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 13595,
+                        "endLine": 297,
+                        "endColumn": 19,
+                        "endOffset": 13763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 1432,
+                    "endColumn": 53,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 54,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 54,
+                    "endOffset": 1536
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 55,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1541,
+                    "endColumn": 53,
+                    "endOffset": 1590
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 54,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1595,
+                    "endColumn": 56,
+                    "endOffset": 1647
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 57,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1652,
+                    "endColumn": 58,
+                    "endOffset": 1706
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 59,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1711,
+                    "endColumn": 55,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 56,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 57,
+                    "endOffset": 1820
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 58,
+                        "endOffset": 228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1825,
+                    "endColumn": 56,
+                    "endOffset": 1877
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 57,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1882,
+                    "endColumn": 55,
+                    "endOffset": 1933
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 56,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1938,
+                    "endColumn": 50,
+                    "endOffset": 1984
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/drawable.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1989,
+                    "endColumn": 41,
+                    "endOffset": 2026
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 2640,
+                        "endColumn": 38,
+                        "endOffset": 2677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2031,
+                    "endColumn": 55,
+                    "endOffset": 2082
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 1,
+                        "startOffset": 4944,
+                        "endColumn": 52,
+                        "endOffset": 4995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 2087,
+                    "endColumn": 44,
+                    "endOffset": 2127
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 781,
+                        "endColumn": 41,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 2132,
+                    "endColumn": 42,
+                    "endOffset": 2170
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 741,
+                        "endColumn": 39,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2175,
+                    "endColumn": 48,
+                    "endOffset": 2219
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 695,
+                        "endColumn": 45,
+                        "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2224,
+                    "endColumn": 48,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 919,
+                        "endColumn": 45,
+                        "endOffset": 963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endColumn": 50,
+                    "endOffset": 2319
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 823,
+                        "endColumn": 47,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2324,
+                    "endColumn": 48,
+                    "endOffset": 2368
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 597,
+                        "endColumn": 45,
+                        "endOffset": 641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 2373,
+                    "endColumn": 54,
+                    "endOffset": 2423
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 643,
+                        "endColumn": 51,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 2428,
+                    "endColumn": 46,
+                    "endOffset": 2470
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 965,
+                        "endColumn": 43,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2475,
+                    "endColumn": 50,
+                    "endOffset": 2521
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 871,
+                        "endColumn": 47,
+                        "endOffset": 917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 2526,
+                    "endColumn": 46,
+                    "endOffset": 2568
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1049,
+                        "endColumn": 43,
+                        "endOffset": 1091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2573,
+                    "endColumn": 42,
+                    "endOffset": 2611
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1009,
+                        "endColumn": 39,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 2616,
+                    "endColumn": 43,
+                    "endOffset": 2655
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 2408,
+                        "endColumn": 40,
+                        "endOffset": 2447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2660,
+                    "endColumn": 60,
+                    "endOffset": 2716
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 1,
+                        "startOffset": 5149,
+                        "endColumn": 57,
+                        "endOffset": 5205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2721,
+                    "endColumn": 89,
+                    "endOffset": 2806
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 1,
+                        "startOffset": 5207,
+                        "endColumn": 86,
+                        "endOffset": 5292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2811,
+                    "endColumn": 41,
+                    "endOffset": 2848
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1193,
+                        "endColumn": 38,
+                        "endOffset": 1230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 2853,
+                    "endColumn": 50,
+                    "endOffset": 2899
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 1,
+                        "startOffset": 57,
+                        "endColumn": 47,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 2904,
+                    "endColumn": 43,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/version.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endColumn": 47,
+                    "endOffset": 2991
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 2,
+                        "startOffset": 152,
+                        "endColumn": 45,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2996,
+                    "endColumn": 67,
+                    "endOffset": 3059
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1800,
+                        "endColumn": 64,
+                        "endOffset": 1863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3064,
+                    "endColumn": 58,
+                    "endOffset": 3118
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 1865,
+                        "endColumn": 55,
+                        "endOffset": 1919
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3123,
+                    "endColumn": 41,
+                    "endOffset": 3160
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 2765,
+                        "endColumn": 38,
+                        "endOffset": 2802
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3165,
+                    "endColumn": 50,
+                    "endOffset": 3211
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 2804,
+                        "endColumn": 53,
+                        "endOffset": 2856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3216,
+                    "endColumn": 150,
+                    "endOffset": 3362
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 1,
+                        "startOffset": 4997,
+                        "endColumn": 147,
+                        "endOffset": 5143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3367,
+                    "endColumn": 43,
+                    "endOffset": 3406
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 2521,
+                        "endColumn": 40,
+                        "endOffset": 2560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3411,
+                    "endColumn": 95,
+                    "endOffset": 3502
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 1,
+                        "startOffset": 5502,
+                        "endColumn": 92,
+                        "endOffset": 5593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 3507,
+                    "endColumn": 81,
+                    "endOffset": 3584
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 1,
+                        "startOffset": 5595,
+                        "endColumn": 78,
+                        "endOffset": 5672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 3589,
+                    "endColumn": 84,
+                    "endOffset": 3669
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 1,
+                        "startOffset": 5777,
+                        "endColumn": 81,
+                        "endOffset": 5857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 3674,
+                    "endColumn": 103,
+                    "endOffset": 3773
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 1,
+                        "startOffset": 5674,
+                        "endColumn": 100,
+                        "endOffset": 5773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 3778,
+                    "endColumn": 52,
+                    "endOffset": 3826
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 1,
+                        "startOffset": 3013,
+                        "endColumn": 49,
+                        "endOffset": 3061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 3831,
+                    "endColumn": 114,
+                    "endOffset": 3941
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 1,
+                        "startOffset": 4015,
+                        "endColumn": 111,
+                        "endOffset": 4125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3946,
+                    "endColumn": 58,
+                    "endOffset": 4000
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 1,
+                        "startOffset": 3959,
+                        "endColumn": 55,
+                        "endOffset": 4013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 4005,
+                    "endColumn": 56,
+                    "endOffset": 4057
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 1,
+                        "startOffset": 6568,
+                        "endColumn": 53,
+                        "endOffset": 6620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 4062,
+                    "endColumn": 69,
+                    "endOffset": 4127
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 1,
+                        "startOffset": 6230,
+                        "endColumn": 72,
+                        "endOffset": 6301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 4132,
+                    "endColumn": 55,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 1,
+                        "startOffset": 6373,
+                        "endColumn": 52,
+                        "endOffset": 6424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endColumn": 46,
+                    "endOffset": 4230
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 3063,
+                        "endColumn": 43,
+                        "endOffset": 3105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 4235,
+                    "endColumn": 67,
+                    "endOffset": 4298
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 1,
+                        "startOffset": 5859,
+                        "endColumn": 64,
+                        "endOffset": 5922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4303,
+                    "endColumn": 62,
+                    "endOffset": 4361
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 1,
+                        "startOffset": 6164,
+                        "endColumn": 65,
+                        "endOffset": 6228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 4366,
+                    "endColumn": 61,
+                    "endOffset": 4423
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1666,
+                        "endColumn": 58,
+                        "endOffset": 1723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 4428,
+                    "endColumn": 63,
+                    "endOffset": 4487
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 1,
+                        "startOffset": 6426,
+                        "endColumn": 60,
+                        "endOffset": 6485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 4492,
+                    "endColumn": 57,
+                    "endOffset": 4545
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 1,
+                        "startOffset": 5991,
+                        "endColumn": 54,
+                        "endOffset": 6044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 4550,
+                    "endColumn": 67,
+                    "endOffset": 4613
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 1,
+                        "startOffset": 3775,
+                        "endColumn": 64,
+                        "endOffset": 3838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 4618,
+                    "endColumn": 39,
+                    "endOffset": 4653
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 2562,
+                        "endColumn": 36,
+                        "endOffset": 2597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 4658,
+                    "endColumn": 48,
+                    "endOffset": 4702
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 504,
+                        "endColumn": 45,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 4707,
+                    "endColumn": 48,
+                    "endOffset": 4751
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 550,
+                        "endColumn": 45,
+                        "endOffset": 594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 4756,
+                    "endColumn": 238,
+                    "endOffset": 4990
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 266,
+                        "endColumn": 235,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 4995,
+                    "endColumn": 69,
+                    "endOffset": 5060
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 199,
+                        "endColumn": 66,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 5065,
+                    "endColumn": 51,
+                    "endOffset": 5112
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 1,
+                        "startOffset": 11848,
+                        "endColumn": 48,
+                        "endOffset": 11895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 5117,
+                    "endColumn": 50,
+                    "endOffset": 5163
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 1,
+                        "startOffset": 12179,
+                        "endColumn": 47,
+                        "endOffset": 12225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 5168,
+                    "endColumn": 60,
+                    "endOffset": 5224
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 1,
+                        "startOffset": 12227,
+                        "endColumn": 57,
+                        "endOffset": 12283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5229,
+                    "endColumn": 55,
+                    "endOffset": 5280
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 1,
+                        "startOffset": 12058,
+                        "endColumn": 52,
+                        "endOffset": 12109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 5285,
+                    "endColumn": 81,
+                    "endOffset": 5362
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 1,
+                        "startOffset": 6707,
+                        "endColumn": 78,
+                        "endOffset": 6784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 5367,
+                    "endColumn": 49,
+                    "endOffset": 5412
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 1,
+                        "startOffset": 5373,
+                        "endColumn": 46,
+                        "endOffset": 5418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 5417,
+                    "endColumn": 79,
+                    "endOffset": 5492
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 1,
+                        "startOffset": 5296,
+                        "endColumn": 76,
+                        "endOffset": 5371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 5497,
+                    "endColumn": 67,
+                    "endOffset": 5560
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 1,
+                        "startOffset": 12114,
+                        "endColumn": 64,
+                        "endOffset": 12177
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 5565,
+                    "endColumn": 69,
+                    "endOffset": 5630
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1283,
+                        "endColumn": 69,
+                        "endOffset": 1348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 5635,
+                    "endColumn": 176,
+                    "endOffset": 5807
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1353,
+                        "endColumn": 176,
+                        "endOffset": 1525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 5812,
+                    "endColumn": 58,
+                    "endOffset": 5866
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 2014,
+                        "endColumn": 55,
+                        "endOffset": 2068
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 5871,
+                    "endColumn": 53,
+                    "endOffset": 5920
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 1963,
+                        "endColumn": 50,
+                        "endOffset": 2012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 5925,
+                    "endColumn": 59,
+                    "endOffset": 5980
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 2236,
+                        "endColumn": 56,
+                        "endOffset": 2291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 5985,
+                    "endColumn": 82,
+                    "endOffset": 6063
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 2293,
+                        "endColumn": 79,
+                        "endOffset": 2371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 6068,
+                    "endColumn": 62,
+                    "endOffset": 6126
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 2070,
+                        "endColumn": 65,
+                        "endOffset": 2134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 6131,
+                    "endColumn": 44,
+                    "endOffset": 6171
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1921,
+                        "endColumn": 41,
+                        "endOffset": 1961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 6176,
+                    "endColumn": 56,
+                    "endOffset": 6228
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 2136,
+                        "endColumn": 53,
+                        "endOffset": 2188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6233,
+                    "endColumn": 48,
+                    "endOffset": 6277
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 2190,
+                        "endColumn": 45,
+                        "endOffset": 2234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 6282,
+                    "endColumn": 113,
+                    "endOffset": 6391
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 1,
+                        "startOffset": 4831,
+                        "endColumn": 110,
+                        "endOffset": 4940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 6396,
+                    "endColumn": 58,
+                    "endOffset": 6450
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 1,
+                        "startOffset": 4775,
+                        "endColumn": 55,
+                        "endOffset": 4829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 6455,
+                    "endColumn": 85,
+                    "endOffset": 6536
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 1,
+                        "startOffset": 6622,
+                        "endColumn": 82,
+                        "endOffset": 6703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 6541,
+                    "endColumn": 65,
+                    "endOffset": 6602
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 1,
+                        "startOffset": 6303,
+                        "endColumn": 68,
+                        "endOffset": 6370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 6607,
+                    "endColumn": 69,
+                    "endOffset": 6672
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1597,
+                        "endColumn": 66,
+                        "endOffset": 1662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 6677,
+                    "endColumn": 72,
+                    "endOffset": 6745
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1527,
+                        "endColumn": 69,
+                        "endOffset": 1595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 6750,
+                    "endColumn": 58,
+                    "endOffset": 6804
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 1,
+                        "startOffset": 11897,
+                        "endColumn": 55,
+                        "endOffset": 11951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 6809,
+                    "endColumn": 33,
+                    "endOffset": 6838
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 2449,
+                        "endColumn": 30,
+                        "endOffset": 2478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 6843,
+                    "endColumn": 77,
+                    "endOffset": 6916
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1725,
+                        "endColumn": 74,
+                        "endOffset": 1798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 6921,
+                    "endColumn": 43,
+                    "endOffset": 6960
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 2480,
+                        "endColumn": 40,
+                        "endOffset": 2519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 6965,
+                    "endColumn": 55,
+                    "endOffset": 7016
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1140,
+                        "endColumn": 52,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 7021,
+                    "endColumn": 49,
+                    "endOffset": 7066
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 1,
+                        "startOffset": 2964,
+                        "endColumn": 46,
+                        "endOffset": 3009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 7071,
+                    "endColumn": 82,
+                    "endOffset": 7149
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 1,
+                        "startOffset": 5420,
+                        "endColumn": 79,
+                        "endOffset": 5498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 7154,
+                    "endColumn": 49,
+                    "endOffset": 7199
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1233,
+                        "endColumn": 46,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 7204,
+                    "endColumn": 52,
+                    "endOffset": 7252
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 1,
+                        "startOffset": 11278,
+                        "endColumn": 49,
+                        "endOffset": 11326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 7257,
+                    "endColumn": 61,
+                    "endOffset": 7314
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 1,
+                        "startOffset": 7050,
+                        "endColumn": 58,
+                        "endOffset": 7107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 7319,
+                    "endColumn": 52,
+                    "endOffset": 7367
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 1,
+                        "startOffset": 7109,
+                        "endColumn": 49,
+                        "endOffset": 7157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 7372,
+                    "endColumn": 60,
+                    "endOffset": 7428
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 1,
+                        "startOffset": 6842,
+                        "endColumn": 57,
+                        "endOffset": 6898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 7433,
+                    "endColumn": 97,
+                    "endOffset": 7526
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 1,
+                        "startOffset": 6900,
+                        "endColumn": 94,
+                        "endOffset": 6993
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 7531,
+                    "endColumn": 54,
+                    "endOffset": 7581
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 1,
+                        "startOffset": 9456,
+                        "endColumn": 51,
+                        "endOffset": 9506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 7586,
+                    "endColumn": 92,
+                    "endOffset": 7674
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 1,
+                        "startOffset": 9616,
+                        "endColumn": 89,
+                        "endOffset": 9704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 7679,
+                    "endColumn": 55,
+                    "endOffset": 7730
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 1,
+                        "startOffset": 6997,
+                        "endColumn": 52,
+                        "endOffset": 7048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 7735,
+                    "endColumn": 105,
+                    "endOffset": 7836
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 1,
+                        "startOffset": 7205,
+                        "endColumn": 102,
+                        "endOffset": 7306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 7841,
+                    "endColumn": 59,
+                    "endOffset": 7896
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 2,
+                        "startOffset": 7311,
+                        "endColumn": 57,
+                        "endOffset": 7366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 7901,
+                    "endColumn": 120,
+                    "endOffset": 8017
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 1,
+                        "startOffset": 7368,
+                        "endColumn": 117,
+                        "endOffset": 7484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 8022,
+                    "endColumn": 60,
+                    "endOffset": 8078
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 1,
+                        "startOffset": 9558,
+                        "endColumn": 57,
+                        "endOffset": 9614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 8083,
+                    "endColumn": 48,
+                    "endOffset": 8127
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 1,
+                        "startOffset": 7159,
+                        "endColumn": 45,
+                        "endOffset": 7203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 8132,
+                    "endColumn": 52,
+                    "endOffset": 8180
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 1,
+                        "startOffset": 8803,
+                        "endColumn": 49,
+                        "endOffset": 8851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 8185,
+                    "endColumn": 54,
+                    "endOffset": 8235
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 1,
+                        "startOffset": 6788,
+                        "endColumn": 51,
+                        "endOffset": 6838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 8240,
+                    "endColumn": 52,
+                    "endOffset": 8288
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 1,
+                        "startOffset": 9508,
+                        "endColumn": 49,
+                        "endOffset": 9556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 8293,
+                    "endColumn": 66,
+                    "endOffset": 8355
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 1,
+                        "startOffset": 8855,
+                        "endColumn": 63,
+                        "endOffset": 8917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 8360,
+                    "endColumn": 102,
+                    "endOffset": 8458
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 1,
+                        "startOffset": 8996,
+                        "endColumn": 99,
+                        "endOffset": 9094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 8463,
+                    "endColumn": 79,
+                    "endOffset": 8538
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 1,
+                        "startOffset": 8919,
+                        "endColumn": 76,
+                        "endOffset": 8994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 8543,
+                    "endColumn": 55,
+                    "endOffset": 8594
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 1,
+                        "startOffset": 11706,
+                        "endColumn": 52,
+                        "endOffset": 11757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 8599,
+                    "endColumn": 90,
+                    "endOffset": 8685
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 1,
+                        "startOffset": 11759,
+                        "endColumn": 87,
+                        "endOffset": 11845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 8690,
+                    "endColumn": 60,
+                    "endOffset": 8746
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 1,
+                        "startOffset": 7488,
+                        "endColumn": 57,
+                        "endOffset": 7544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 8751,
+                    "endColumn": 101,
+                    "endOffset": 8848
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 1,
+                        "startOffset": 7546,
+                        "endColumn": 98,
+                        "endOffset": 7643
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 160,
+                    "startColumn": 4,
+                    "startOffset": 8853,
+                    "endColumn": 58,
+                    "endOffset": 8907
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 1,
+                        "startOffset": 10608,
+                        "endColumn": 55,
+                        "endOffset": 10662
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 8912,
+                    "endColumn": 118,
+                    "endOffset": 9026
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 1,
+                        "startOffset": 10664,
+                        "endColumn": 115,
+                        "endOffset": 10778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 162,
+                    "startColumn": 4,
+                    "startOffset": 9031,
+                    "endColumn": 63,
+                    "endOffset": 9090
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 1,
+                        "startOffset": 8122,
+                        "endColumn": 60,
+                        "endOffset": 8181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 9095,
+                    "endColumn": 70,
+                    "endOffset": 9161
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 1,
+                        "startOffset": 8270,
+                        "endColumn": 67,
+                        "endOffset": 8336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 9166,
+                    "endColumn": 89,
+                    "endOffset": 9251
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 1,
+                        "startOffset": 8183,
+                        "endColumn": 86,
+                        "endOffset": 8268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 9256,
+                    "endColumn": 55,
+                    "endOffset": 9307
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 1,
+                        "startOffset": 10782,
+                        "endColumn": 52,
+                        "endOffset": 10833
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 9312,
+                    "endColumn": 91,
+                    "endOffset": 9399
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 1,
+                        "startOffset": 10835,
+                        "endColumn": 88,
+                        "endOffset": 10922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 167,
+                    "startColumn": 4,
+                    "startOffset": 9404,
+                    "endColumn": 56,
+                    "endOffset": 9456
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 1,
+                        "startOffset": 10927,
+                        "endColumn": 53,
+                        "endOffset": 10979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 9461,
+                    "endColumn": 89,
+                    "endOffset": 9546
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 1,
+                        "startOffset": 10981,
+                        "endColumn": 86,
+                        "endOffset": 11066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 9551,
+                    "endColumn": 65,
+                    "endOffset": 9612
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 1,
+                        "startOffset": 8340,
+                        "endColumn": 62,
+                        "endOffset": 8401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 9617,
+                    "endColumn": 83,
+                    "endOffset": 9696
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 1,
+                        "startOffset": 8483,
+                        "endColumn": 80,
+                        "endOffset": 8562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 9701,
+                    "endColumn": 82,
+                    "endOffset": 9779
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 1,
+                        "startOffset": 8403,
+                        "endColumn": 79,
+                        "endOffset": 8481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 9784,
+                    "endColumn": 68,
+                    "endOffset": 9848
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 1,
+                        "startOffset": 10365,
+                        "endColumn": 65,
+                        "endOffset": 10429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 9853,
+                    "endColumn": 83,
+                    "endOffset": 9932
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 1,
+                        "startOffset": 10526,
+                        "endColumn": 80,
+                        "endOffset": 10605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 9937,
+                    "endColumn": 97,
+                    "endOffset": 10030
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 1,
+                        "startOffset": 10431,
+                        "endColumn": 94,
+                        "endOffset": 10524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 10035,
+                    "endColumn": 69,
+                    "endOffset": 10100
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 1,
+                        "startOffset": 8566,
+                        "endColumn": 66,
+                        "endOffset": 8631
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 10105,
+                    "endColumn": 86,
+                    "endOffset": 10187
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 1,
+                        "startOffset": 8715,
+                        "endColumn": 83,
+                        "endOffset": 8797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 10192,
+                    "endColumn": 84,
+                    "endOffset": 10272
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 1,
+                        "startOffset": 8633,
+                        "endColumn": 81,
+                        "endOffset": 8713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 10277,
+                    "endColumn": 61,
+                    "endOffset": 10334
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 1,
+                        "startOffset": 7646,
+                        "endColumn": 58,
+                        "endOffset": 7703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 10339,
+                    "endColumn": 84,
+                    "endOffset": 10419
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 1,
+                        "startOffset": 7784,
+                        "endColumn": 81,
+                        "endOffset": 7864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 10424,
+                    "endColumn": 81,
+                    "endOffset": 10501
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 1,
+                        "startOffset": 7705,
+                        "endColumn": 78,
+                        "endOffset": 7782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 10506,
+                    "endColumn": 56,
+                    "endOffset": 10558
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 1,
+                        "startOffset": 9241,
+                        "endColumn": 53,
+                        "endOffset": 9293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 10563,
+                    "endColumn": 54,
+                    "endOffset": 10613
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 1,
+                        "startOffset": 9100,
+                        "endColumn": 51,
+                        "endOffset": 9150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 10618,
+                    "endColumn": 89,
+                    "endOffset": 10703
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 1,
+                        "startOffset": 9152,
+                        "endColumn": 86,
+                        "endOffset": 9237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 10708,
+                    "endColumn": 61,
+                    "endOffset": 10765
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 1,
+                        "startOffset": 11449,
+                        "endColumn": 58,
+                        "endOffset": 11506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 10770,
+                    "endColumn": 75,
+                    "endOffset": 10841
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 1,
+                        "startOffset": 11508,
+                        "endColumn": 72,
+                        "endOffset": 11579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 10846,
+                    "endColumn": 44,
+                    "endOffset": 10886
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 185,
+                        "startColumn": 1,
+                        "startOffset": 9297,
+                        "endColumn": 41,
+                        "endOffset": 9337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 10891,
+                    "endColumn": 60,
+                    "endOffset": 10947
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 1,
+                        "startOffset": 9339,
+                        "endColumn": 57,
+                        "endOffset": 9395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 10952,
+                    "endColumn": 57,
+                    "endOffset": 11005
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 1,
+                        "startOffset": 9397,
+                        "endColumn": 54,
+                        "endOffset": 9450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 11010,
+                    "endColumn": 61,
+                    "endOffset": 11067
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 2,
+                        "startOffset": 11331,
+                        "endColumn": 59,
+                        "endOffset": 11388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 11072,
+                    "endColumn": 58,
+                    "endOffset": 11126
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 2,
+                        "startOffset": 11391,
+                        "endColumn": 56,
+                        "endOffset": 11445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 11131,
+                    "endColumn": 64,
+                    "endOffset": 11191
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 2,
+                        "startOffset": 7869,
+                        "endColumn": 62,
+                        "endOffset": 7929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 11196,
+                    "endColumn": 97,
+                    "endOffset": 11289
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 1,
+                        "startOffset": 8025,
+                        "endColumn": 94,
+                        "endOffset": 8118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 11294,
+                    "endColumn": 96,
+                    "endOffset": 11386
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 1,
+                        "startOffset": 7931,
+                        "endColumn": 93,
+                        "endOffset": 8023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 11391,
+                    "endColumn": 67,
+                    "endOffset": 11454
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 1,
+                        "startOffset": 9918,
+                        "endColumn": 64,
+                        "endOffset": 9981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 11459,
+                    "endColumn": 106,
+                    "endOffset": 11561
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 1,
+                        "startOffset": 10091,
+                        "endColumn": 103,
+                        "endOffset": 10193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 11566,
+                    "endColumn": 110,
+                    "endOffset": 11672
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 1,
+                        "startOffset": 9983,
+                        "endColumn": 107,
+                        "endOffset": 10089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 11677,
+                    "endColumn": 58,
+                    "endOffset": 11731
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 1,
+                        "startOffset": 11581,
+                        "endColumn": 55,
+                        "endOffset": 11635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 11736,
+                    "endColumn": 71,
+                    "endOffset": 11803
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 1,
+                        "startOffset": 11637,
+                        "endColumn": 68,
+                        "endOffset": 11704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 11808,
+                    "endColumn": 65,
+                    "endOffset": 11869
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 1,
+                        "startOffset": 10197,
+                        "endColumn": 62,
+                        "endOffset": 10258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 11874,
+                    "endColumn": 105,
+                    "endOffset": 11975
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 1,
+                        "startOffset": 10260,
+                        "endColumn": 102,
+                        "endOffset": 10361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 11980,
+                    "endColumn": 58,
+                    "endOffset": 12034
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 1,
+                        "startOffset": 9706,
+                        "endColumn": 55,
+                        "endOffset": 9760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 12039,
+                    "endColumn": 81,
+                    "endOffset": 12116
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 1,
+                        "startOffset": 9837,
+                        "endColumn": 78,
+                        "endOffset": 9914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 12121,
+                    "endColumn": 77,
+                    "endOffset": 12194
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 1,
+                        "startOffset": 9762,
+                        "endColumn": 74,
+                        "endOffset": 9835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 12199,
+                    "endColumn": 59,
+                    "endOffset": 12254
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 1,
+                        "startOffset": 6105,
+                        "endColumn": 56,
+                        "endOffset": 6160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 12259,
+                    "endColumn": 79,
+                    "endOffset": 12334
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 1,
+                        "startOffset": 6489,
+                        "endColumn": 76,
+                        "endOffset": 6564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 12339,
+                    "endColumn": 59,
+                    "endOffset": 12394
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 1,
+                        "startOffset": 6046,
+                        "endColumn": 56,
+                        "endOffset": 6101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 12399,
+                    "endColumn": 67,
+                    "endOffset": 12462
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 1,
+                        "startOffset": 5926,
+                        "endColumn": 64,
+                        "endOffset": 5989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 12467,
+                    "endColumn": 61,
+                    "endOffset": 12524
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 1,
+                        "startOffset": 3107,
+                        "endColumn": 58,
+                        "endOffset": 3164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 12529,
+                    "endColumn": 47,
+                    "endOffset": 12572
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1095,
+                        "endColumn": 44,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 12577,
+                    "endColumn": 63,
+                    "endOffset": 12636
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 1,
+                        "startOffset": 2858,
+                        "endColumn": 60,
+                        "endOffset": 2917
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 12641,
+                    "endColumn": 51,
+                    "endOffset": 12688
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 2714,
+                        "endColumn": 48,
+                        "endOffset": 2761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 12693,
+                    "endColumn": 48,
+                    "endOffset": 12737
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 105,
+                        "endColumn": 45,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 12742,
+                    "endColumn": 208,
+                    "endOffset": 12946
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 1,
+                        "startOffset": 11068,
+                        "endColumn": 205,
+                        "endOffset": 11272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 12951,
+                    "endColumn": 47,
+                    "endOffset": 12994
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 1,
+                        "startOffset": 2919,
+                        "endColumn": 44,
+                        "endOffset": 2962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 12999,
+                    "endColumn": 46,
+                    "endOffset": 13041
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 1,
+                        "startOffset": 11953,
+                        "endColumn": 43,
+                        "endOffset": 11995
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 13046,
+                    "endColumn": 43,
+                    "endOffset": 13085
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 2599,
+                        "endColumn": 40,
+                        "endOffset": 2638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 13090,
+                    "endColumn": 46,
+                    "endOffset": 13132
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 1,
+                        "startOffset": 12287,
+                        "endColumn": 43,
+                        "endOffset": 12329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 13137,
+                    "endColumn": 63,
+                    "endOffset": 13196
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 1,
+                        "startOffset": 11997,
+                        "endColumn": 60,
+                        "endOffset": 12056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 13201,
+                    "endColumn": 125,
+                    "endOffset": 13322
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 1,
+                        "startOffset": 4531,
+                        "endColumn": 122,
+                        "endOffset": 4652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 13327,
+                    "endColumn": 59,
+                    "endOffset": 13382
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 1,
+                        "startOffset": 4654,
+                        "endColumn": 56,
+                        "endOffset": 4709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 13387,
+                    "endColumn": 64,
+                    "endOffset": 13447
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 1,
+                        "startOffset": 4711,
+                        "endColumn": 61,
+                        "endOffset": 4771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 13452,
+                    "endColumn": 123,
+                    "endOffset": 13571
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 1,
+                        "startOffset": 4270,
+                        "endColumn": 120,
+                        "endOffset": 4389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 13576,
+                    "endColumn": 70,
+                    "endOffset": 13642
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 1,
+                        "startOffset": 4391,
+                        "endColumn": 67,
+                        "endOffset": 4457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 13647,
+                    "endColumn": 60,
+                    "endOffset": 13703
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 1,
+                        "startOffset": 4206,
+                        "endColumn": 63,
+                        "endOffset": 4268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 13708,
+                    "endColumn": 73,
+                    "endOffset": 13777
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 1,
+                        "startOffset": 4129,
+                        "endColumn": 76,
+                        "endOffset": 4204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 13782,
+                    "endColumn": 74,
+                    "endOffset": 13852
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 1,
+                        "startOffset": 4459,
+                        "endColumn": 71,
+                        "endOffset": 4529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 13857,
+                    "endColumn": 35,
+                    "endOffset": 13888
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 2375,
+                        "endColumn": 32,
+                        "endOffset": 2406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 13893,
+                    "endColumn": 35,
+                    "endOffset": 13924
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 2679,
+                        "endColumn": 32,
+                        "endOffset": 2710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 13929,
+                    "endColumn": 119,
+                    "endOffset": 14044
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 1,
+                        "startOffset": 3840,
+                        "endColumn": 116,
+                        "endOffset": 3955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 14049,
+                    "endColumn": 56,
+                    "endOffset": 14101
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 1,
+                        "startOffset": 3666,
+                        "endColumn": 53,
+                        "endOffset": 3718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 14106,
+                    "endColumn": 131,
+                    "endOffset": 14233
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 3328,
+                        "endColumn": 131,
+                        "endOffset": 3458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 14238,
+                    "endColumn": 57,
+                    "endOffset": 14291
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 1,
+                        "startOffset": 3720,
+                        "endColumn": 54,
+                        "endOffset": 3773
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 14296,
+                    "endColumn": 80,
+                    "endOffset": 14372
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 3248,
+                        "endColumn": 77,
+                        "endOffset": 3324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 14377,
+                    "endColumn": 130,
+                    "endOffset": 14503
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 3460,
+                        "endColumn": 127,
+                        "endOffset": 3586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 14508,
+                    "endColumn": 80,
+                    "endOffset": 14584
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 1,
+                        "startOffset": 3588,
+                        "endColumn": 77,
+                        "endOffset": 3664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 14589,
+                    "endColumn": 82,
+                    "endOffset": 14667
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 3168,
+                        "endColumn": 79,
+                        "endOffset": 3246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 14672,
+                    "endColumn": 30,
+                    "endOffset": 14698
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 52,
+                        "endColumn": 28,
+                        "endOffset": 79
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 14703,
+                    "endColumn": 42,
+                    "endOffset": 14741
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 104,
+                        "endColumn": 40,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 14746,
+                    "endLine": 242,
+                    "endColumn": 9,
+                    "endOffset": 14948
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 626,
+                        "endLine": 20,
+                        "endColumn": 9,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 14953,
+                    "endLine": 246,
+                    "endColumn": 9,
+                    "endOffset": 15188
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 147,
+                        "endLine": 10,
+                        "endColumn": 9,
+                        "endOffset": 382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 15193,
+                    "endLine": 250,
+                    "endColumn": 9,
+                    "endOffset": 15429
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 386,
+                        "endLine": 15,
+                        "endColumn": 9,
+                        "endOffset": 622
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 15434,
+                    "endColumn": 40,
+                    "endOffset": 15470
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 852,
+                        "endColumn": 38,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 15475,
+                    "endLine": 255,
+                    "endColumn": 9,
+                    "endOffset": 15675
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1368,
+                        "endLine": 38,
+                        "endColumn": 9,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 15680,
+                    "endLine": 259,
+                    "endColumn": 9,
+                    "endOffset": 15913
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 893,
+                        "endLine": 28,
+                        "endColumn": 9,
+                        "endOffset": 1126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 15918,
+                    "endLine": 263,
+                    "endColumn": 9,
+                    "endOffset": 16152
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1130,
+                        "endLine": 33,
+                        "endColumn": 9,
+                        "endOffset": 1364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 16157,
+                    "endLine": 275,
+                    "endColumn": 12,
+                    "endOffset": 16961
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 948,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 16966,
+                    "endLine": 287,
+                    "endColumn": 12,
+                    "endOffset": 17836
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 17841,
+                    "endLine": 299,
+                    "endColumn": 12,
+                    "endOffset": 18687
+                },
+                "from": {
+                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/themes.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 8,
+                        "startOffset": 1775,
+                        "endLine": 40,
+                        "endColumn": 12,
+                        "endOffset": 2632
+                    }
+                }
+            }
+        ]
+    }
+]

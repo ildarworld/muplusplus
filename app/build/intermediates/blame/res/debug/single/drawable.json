@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable/list_item_bg_dark.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable/list_item_bg_dark.xml"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable/list_item_bg_light.xml",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable/list_item_bg_light.xml"
+    }
+]

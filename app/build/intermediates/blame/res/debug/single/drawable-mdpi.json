@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/action_cut.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/action_cut.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_paste_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_paste_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_music.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_music.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_select_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_select_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_dir.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_dir.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_sys_file.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_sys_file.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/list_actions_blu.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/list_actions_blu.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_share.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_apk.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_apk.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_cut.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_cut.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_zip.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_zip.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_copy.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_copy.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_navigate_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_navigate_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_rename_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_rename_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_paste.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_paste.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_refresh.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/action_share.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/action_share.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_copy_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_copy_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_refresh_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_refresh_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_image.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_image.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_add_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_add_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_sys_dir.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_sys_dir.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_delete_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_delete_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/action_delete.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/action_delete.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_share_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_share_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/action_zip.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/action_zip.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_cut_light.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_cut_light.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/action_copy.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/action_copy.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_video.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_video.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_select.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_select.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/list_actions.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/list_actions.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_sdcard.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_sdcard.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_navigate.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_navigate.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_add.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_add.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_delete.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/filetype_generic.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/filetype_generic.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_rename.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/ic_action_rename.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/bookmark_icon.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/bookmark_icon.png"
+    },
+    {
+        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/drawable-mdpi/list_actions_glow.png",
+        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/drawable-mdpi/list_actions_glow.png"
+    }
+]
