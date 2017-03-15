@@ -1,7 +1,7 @@
 package net.appositedesigns.muplusplus.activity;
 
 import net.appositedesigns.muplusplus.R;
-import net.appositedesigns.muplusplus.util.SettingsHelper;
+import net.appositedesigns.muplusplus.muUtil.SettingsHelper;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.DialogInterface.OnClickListener;

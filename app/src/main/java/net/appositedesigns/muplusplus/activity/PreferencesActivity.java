@@ -9,8 +9,8 @@ import android.preference.PreferenceFragment;
 import android.view.MenuItem;
 
 import net.appositedesigns.muplusplus.R;
-import net.appositedesigns.muplusplus.util.FileOperationsHelper;
-import net.appositedesigns.muplusplus.util.SettingsHelper;
+import net.appositedesigns.muplusplus.muUtil.FileOperationsHelper;
+import net.appositedesigns.muplusplus.muUtil.SettingsHelper;
 
 import java.util.List;
 

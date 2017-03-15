@@ -7,9 +7,9 @@ import java.util.List;
 
 import net.appositedesigns.muplusplus.MuPlusPlusApp;
 import net.appositedesigns.muplusplus.R;
-import net.appositedesigns.muplusplus.adapters.MuBookmarksAdapter;
+import net.appositedesigns.muplusplus.muAdapters.MuBookmarksAdapter;
 import net.appositedesigns.muplusplus.model.FileArrayEntry;
-import net.appositedesigns.muplusplus.util.SettingsHelper;
+import net.appositedesigns.muplusplus.muUtil.SettingsHelper;
 import net.appositedesigns.muplusplus.workers.BookmarkLoader;
 import android.app.Activity;
 import android.app.AlertDialog;

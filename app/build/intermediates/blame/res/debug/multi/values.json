@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "outputFile": "/Users/ildarworld/git/muplusplus/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 320
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 250,
                         "startColumn": 1,
@@ -33,7 +33,7 @@
                     "endOffset": 570
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 260,
                         "startColumn": 2,
@@ -54,7 +54,7 @@
                     "endOffset": 696
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 276,
                         "startColumn": 4,
@@ -75,7 +75,7 @@
                     "endOffset": 809
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 281,
                         "startColumn": 4,
@@ -96,7 +96,7 @@
                     "endOffset": 962
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 244,
                         "startColumn": 1,
@@ -117,7 +117,7 @@
                     "endOffset": 1106
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 270,
                         "startColumn": 4,
@@ -138,7 +138,7 @@
                     "endOffset": 1254
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 287,
                         "startColumn": 4,
@@ -159,7 +159,7 @@
                     "endOffset": 1427
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 293,
                         "startColumn": 4,
@@ -179,7 +179,7 @@
                     "endOffset": 1481
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/icons.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -198,7 +198,7 @@
                     "endOffset": 1536
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/icons.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -217,7 +217,7 @@
                     "endOffset": 1590
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/icons.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -236,7 +236,7 @@
                     "endOffset": 1647
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/icons.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -255,7 +255,7 @@
                     "endOffset": 1706
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/icons.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -274,7 +274,7 @@
                     "endOffset": 1762
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/icons.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -293,7 +293,7 @@
                     "endOffset": 1820
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/icons.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -312,7 +312,7 @@
                     "endOffset": 1877
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/icons.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -331,7 +331,7 @@
                     "endOffset": 1933
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/icons.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/icons.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -350,7 +350,7 @@
                     "endOffset": 1984
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/drawable.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/drawable.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -369,7 +369,7 @@
                     "endOffset": 2026
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 1,
@@ -388,7 +388,7 @@
                     "endOffset": 2082
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 97,
                         "startColumn": 1,
@@ -407,7 +407,7 @@
                     "endOffset": 2127
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 1,
@@ -426,7 +426,7 @@
                     "endOffset": 2170
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 1,
@@ -445,7 +445,7 @@
                     "endOffset": 2219
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 1,
@@ -464,7 +464,7 @@
                     "endOffset": 2268
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 1,
@@ -483,7 +483,7 @@
                     "endOffset": 2319
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 1,
@@ -502,7 +502,7 @@
                     "endOffset": 2368
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
@@ -521,7 +521,7 @@
                     "endOffset": 2423
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 1,
@@ -540,7 +540,7 @@
                     "endOffset": 2470
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 1,
@@ -559,7 +559,7 @@
                     "endOffset": 2521
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 1,
@@ -578,7 +578,7 @@
                     "endOffset": 2568
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 1,
@@ -597,7 +597,7 @@
                     "endOffset": 2611
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 1,
@@ -616,7 +616,7 @@
                     "endOffset": 2655
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 1,
@@ -635,7 +635,7 @@
                     "endOffset": 2716
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 101,
                         "startColumn": 1,
@@ -654,7 +654,7 @@
                     "endOffset": 2806
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 102,
                         "startColumn": 1,
@@ -673,7 +673,7 @@
                     "endOffset": 2848
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 1,
@@ -692,7 +692,7 @@
                     "endOffset": 2899
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
@@ -711,7 +711,7 @@
                     "endOffset": 2943
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/version.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/version.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -730,7 +730,7 @@
                     "endOffset": 2991
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 2,
@@ -749,7 +749,7 @@
                     "endOffset": 3059
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 1,
@@ -768,7 +768,7 @@
                     "endOffset": 3118
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 1,
@@ -787,7 +787,7 @@
                     "endOffset": 3160
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 1,
@@ -806,7 +806,7 @@
                     "endOffset": 3211
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 1,
@@ -825,7 +825,7 @@
                     "endOffset": 3362
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 98,
                         "startColumn": 1,
@@ -844,7 +844,7 @@
                     "endOffset": 3406
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 1,
@@ -863,7 +863,7 @@
                     "endOffset": 3502
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 108,
                         "startColumn": 1,
@@ -882,7 +882,7 @@
                     "endOffset": 3584
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 109,
                         "startColumn": 1,
@@ -901,7 +901,7 @@
                     "endOffset": 3669
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 112,
                         "startColumn": 1,
@@ -920,7 +920,7 @@
                     "endOffset": 3773
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 1,
@@ -939,7 +939,7 @@
                     "endOffset": 3826
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 1,
@@ -958,7 +958,7 @@
                     "endOffset": 3941
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 1,
@@ -977,7 +977,7 @@
                     "endOffset": 4000
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 82,
                         "startColumn": 1,
@@ -996,7 +996,7 @@
                     "endOffset": 4057
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 130,
                         "startColumn": 1,
@@ -1015,7 +1015,7 @@
                     "endOffset": 4127
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 122,
                         "startColumn": 1,
@@ -1034,7 +1034,7 @@
                     "endOffset": 4183
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 125,
                         "startColumn": 1,
@@ -1053,7 +1053,7 @@
                     "endOffset": 4230
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 1,
@@ -1072,7 +1072,7 @@
                     "endOffset": 4298
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 113,
                         "startColumn": 1,
@@ -1091,7 +1091,7 @@
                     "endOffset": 4361
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 121,
                         "startColumn": 1,
@@ -1110,7 +1110,7 @@
                     "endOffset": 4423
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 1,
@@ -1129,7 +1129,7 @@
                     "endOffset": 4487
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 126,
                         "startColumn": 1,
@@ -1148,7 +1148,7 @@
                     "endOffset": 4545
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 1,
@@ -1167,7 +1167,7 @@
                     "endOffset": 4613
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 1,
@@ -1186,7 +1186,7 @@
                     "endOffset": 4653
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 1,
@@ -1205,7 +1205,7 @@
                     "endOffset": 4702
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
@@ -1224,7 +1224,7 @@
                     "endOffset": 4751
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
@@ -1243,7 +1243,7 @@
                     "endOffset": 4990
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
@@ -1262,7 +1262,7 @@
                     "endOffset": 5060
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
@@ -1281,7 +1281,7 @@
                     "endOffset": 5112
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 232,
                         "startColumn": 1,
@@ -1300,7 +1300,7 @@
                     "endOffset": 5163
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 240,
                         "startColumn": 1,
@@ -1319,7 +1319,7 @@
                     "endOffset": 5224
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 1,
@@ -1338,7 +1338,7 @@
                     "endOffset": 5280
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 236,
                         "startColumn": 1,
@@ -1357,7 +1357,7 @@
                     "endOffset": 5362
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 133,
                         "startColumn": 1,
@@ -1376,7 +1376,7 @@
                     "endOffset": 5412
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 105,
                         "startColumn": 1,
@@ -1395,7 +1395,7 @@
                     "endOffset": 5492
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 104,
                         "startColumn": 1,
@@ -1414,7 +1414,7 @@
                     "endOffset": 5560
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 239,
                         "startColumn": 1,
@@ -1433,7 +1433,7 @@
                     "endOffset": 5630
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -1452,7 +1452,7 @@
                     "endOffset": 5807
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -1471,7 +1471,7 @@
                     "endOffset": 5866
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 1,
@@ -1490,7 +1490,7 @@
                     "endOffset": 5920
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 1,
@@ -1509,7 +1509,7 @@
                     "endOffset": 5980
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 1,
@@ -1528,7 +1528,7 @@
                     "endOffset": 6063
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 1,
@@ -1547,7 +1547,7 @@
                     "endOffset": 6126
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 1,
@@ -1566,7 +1566,7 @@
                     "endOffset": 6171
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 1,
@@ -1585,7 +1585,7 @@
                     "endOffset": 6228
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 1,
@@ -1604,7 +1604,7 @@
                     "endOffset": 6277
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 1,
@@ -1623,7 +1623,7 @@
                     "endOffset": 6391
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 1,
@@ -1642,7 +1642,7 @@
                     "endOffset": 6450
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 94,
                         "startColumn": 1,
@@ -1661,7 +1661,7 @@
                     "endOffset": 6536
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 131,
                         "startColumn": 1,
@@ -1680,7 +1680,7 @@
                     "endOffset": 6602
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 123,
                         "startColumn": 1,
@@ -1699,7 +1699,7 @@
                     "endOffset": 6672
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 1,
@@ -1718,7 +1718,7 @@
                     "endOffset": 6745
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 1,
@@ -1737,7 +1737,7 @@
                     "endOffset": 6804
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 233,
                         "startColumn": 1,
@@ -1756,7 +1756,7 @@
                     "endOffset": 6838
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 1,
@@ -1775,7 +1775,7 @@
                     "endOffset": 6916
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 1,
@@ -1794,7 +1794,7 @@
                     "endOffset": 6960
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 1,
@@ -1813,7 +1813,7 @@
                     "endOffset": 7016
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 1,
@@ -1832,7 +1832,7 @@
                     "endOffset": 7066
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 1,
@@ -1851,7 +1851,7 @@
                     "endOffset": 7149
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 106,
                         "startColumn": 1,
@@ -1870,7 +1870,7 @@
                     "endOffset": 7199
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 1,
@@ -1889,7 +1889,7 @@
                     "endOffset": 7252
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 220,
                         "startColumn": 1,
@@ -1908,7 +1908,7 @@
                     "endOffset": 7314
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 141,
                         "startColumn": 1,
@@ -1927,7 +1927,7 @@
                     "endOffset": 7367
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 142,
                         "startColumn": 1,
@@ -1946,7 +1946,7 @@
                     "endOffset": 7428
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 137,
                         "startColumn": 1,
@@ -1965,7 +1965,7 @@
                     "endOffset": 7526
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 138,
                         "startColumn": 1,
@@ -1984,7 +1984,7 @@
                     "endOffset": 7581
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 1,
@@ -2003,7 +2003,7 @@
                     "endOffset": 7674
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 193,
                         "startColumn": 1,
@@ -2022,7 +2022,7 @@
                     "endOffset": 7730
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 140,
                         "startColumn": 1,
@@ -2041,7 +2041,7 @@
                     "endOffset": 7836
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 144,
                         "startColumn": 1,
@@ -2060,7 +2060,7 @@
                     "endOffset": 7896
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 146,
                         "startColumn": 2,
@@ -2079,7 +2079,7 @@
                     "endOffset": 8017
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 147,
                         "startColumn": 1,
@@ -2098,7 +2098,7 @@
                     "endOffset": 8078
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 1,
@@ -2117,7 +2117,7 @@
                     "endOffset": 8127
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 143,
                         "startColumn": 1,
@@ -2136,7 +2136,7 @@
                     "endOffset": 8180
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 1,
@@ -2155,7 +2155,7 @@
                     "endOffset": 8235
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 135,
                         "startColumn": 1,
@@ -2174,7 +2174,7 @@
                     "endOffset": 8288
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 1,
@@ -2193,7 +2193,7 @@
                     "endOffset": 8355
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 1,
@@ -2212,7 +2212,7 @@
                     "endOffset": 8458
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 1,
@@ -2231,7 +2231,7 @@
                     "endOffset": 8538
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 1,
@@ -2250,7 +2250,7 @@
                     "endOffset": 8594
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 229,
                         "startColumn": 1,
@@ -2269,7 +2269,7 @@
                     "endOffset": 8685
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 230,
                         "startColumn": 1,
@@ -2288,7 +2288,7 @@
                     "endOffset": 8746
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 149,
                         "startColumn": 1,
@@ -2307,7 +2307,7 @@
                     "endOffset": 8848
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 150,
                         "startColumn": 1,
@@ -2326,7 +2326,7 @@
                     "endOffset": 8907
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 209,
                         "startColumn": 1,
@@ -2345,7 +2345,7 @@
                     "endOffset": 9026
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 210,
                         "startColumn": 1,
@@ -2364,7 +2364,7 @@
                     "endOffset": 9090
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 1,
@@ -2383,7 +2383,7 @@
                     "endOffset": 9161
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 1,
@@ -2402,7 +2402,7 @@
                     "endOffset": 9251
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 161,
                         "startColumn": 1,
@@ -2421,7 +2421,7 @@
                     "endOffset": 9307
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 212,
                         "startColumn": 1,
@@ -2440,7 +2440,7 @@
                     "endOffset": 9399
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 1,
@@ -2459,7 +2459,7 @@
                     "endOffset": 9456
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 1,
@@ -2478,7 +2478,7 @@
                     "endOffset": 9546
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 1,
@@ -2497,7 +2497,7 @@
                     "endOffset": 9612
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 1,
@@ -2516,7 +2516,7 @@
                     "endOffset": 9696
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 1,
@@ -2535,7 +2535,7 @@
                     "endOffset": 9779
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 1,
@@ -2554,7 +2554,7 @@
                     "endOffset": 9848
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 1,
@@ -2573,7 +2573,7 @@
                     "endOffset": 9932
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 1,
@@ -2592,7 +2592,7 @@
                     "endOffset": 10030
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 1,
@@ -2611,7 +2611,7 @@
                     "endOffset": 10100
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 1,
@@ -2630,7 +2630,7 @@
                     "endOffset": 10187
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 1,
@@ -2649,7 +2649,7 @@
                     "endOffset": 10272
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 1,
@@ -2668,7 +2668,7 @@
                     "endOffset": 10334
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 152,
                         "startColumn": 1,
@@ -2687,7 +2687,7 @@
                     "endOffset": 10419
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 154,
                         "startColumn": 1,
@@ -2706,7 +2706,7 @@
                     "endOffset": 10501
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 153,
                         "startColumn": 1,
@@ -2725,7 +2725,7 @@
                     "endOffset": 10558
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 1,
@@ -2744,7 +2744,7 @@
                     "endOffset": 10613
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 1,
@@ -2763,7 +2763,7 @@
                     "endOffset": 10703
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 1,
@@ -2782,7 +2782,7 @@
                     "endOffset": 10765
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 225,
                         "startColumn": 1,
@@ -2801,7 +2801,7 @@
                     "endOffset": 10841
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 226,
                         "startColumn": 1,
@@ -2820,7 +2820,7 @@
                     "endOffset": 10886
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 1,
@@ -2839,7 +2839,7 @@
                     "endOffset": 10947
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 186,
                         "startColumn": 1,
@@ -2858,7 +2858,7 @@
                     "endOffset": 11005
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 1,
@@ -2877,7 +2877,7 @@
                     "endOffset": 11067
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 222,
                         "startColumn": 2,
@@ -2896,7 +2896,7 @@
                     "endOffset": 11126
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 223,
                         "startColumn": 2,
@@ -2915,7 +2915,7 @@
                     "endOffset": 11191
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 156,
                         "startColumn": 2,
@@ -2934,7 +2934,7 @@
                     "endOffset": 11289
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 158,
                         "startColumn": 1,
@@ -2953,7 +2953,7 @@
                     "endOffset": 11386
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 1,
@@ -2972,7 +2972,7 @@
                     "endOffset": 11454
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 198,
                         "startColumn": 1,
@@ -2991,7 +2991,7 @@
                     "endOffset": 11561
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 1,
@@ -3010,7 +3010,7 @@
                     "endOffset": 11672
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 199,
                         "startColumn": 1,
@@ -3029,7 +3029,7 @@
                     "endOffset": 11731
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 227,
                         "startColumn": 1,
@@ -3048,7 +3048,7 @@
                     "endOffset": 11803
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 228,
                         "startColumn": 1,
@@ -3067,7 +3067,7 @@
                     "endOffset": 11869
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 1,
@@ -3086,7 +3086,7 @@
                     "endOffset": 11975
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 1,
@@ -3105,7 +3105,7 @@
                     "endOffset": 12034
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 1,
@@ -3124,7 +3124,7 @@
                     "endOffset": 12116
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 1,
@@ -3143,7 +3143,7 @@
                     "endOffset": 12194
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 195,
                         "startColumn": 1,
@@ -3162,7 +3162,7 @@
                     "endOffset": 12254
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 119,
                         "startColumn": 1,
@@ -3181,7 +3181,7 @@
                     "endOffset": 12334
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 128,
                         "startColumn": 1,
@@ -3200,7 +3200,7 @@
                     "endOffset": 12394
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 117,
                         "startColumn": 1,
@@ -3219,7 +3219,7 @@
                     "endOffset": 12462
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 115,
                         "startColumn": 1,
@@ -3238,7 +3238,7 @@
                     "endOffset": 12524
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 1,
@@ -3257,7 +3257,7 @@
                     "endOffset": 12572
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 1,
@@ -3276,7 +3276,7 @@
                     "endOffset": 12636
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 1,
@@ -3295,7 +3295,7 @@
                     "endOffset": 12688
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 1,
@@ -3314,7 +3314,7 @@
                     "endOffset": 12737
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
@@ -3333,7 +3333,7 @@
                     "endOffset": 12946
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 1,
@@ -3352,7 +3352,7 @@
                     "endOffset": 12994
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 1,
@@ -3371,7 +3371,7 @@
                     "endOffset": 13041
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 234,
                         "startColumn": 1,
@@ -3390,7 +3390,7 @@
                     "endOffset": 13085
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 1,
@@ -3409,7 +3409,7 @@
                     "endOffset": 13132
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 243,
                         "startColumn": 1,
@@ -3428,7 +3428,7 @@
                     "endOffset": 13196
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 235,
                         "startColumn": 1,
@@ -3447,7 +3447,7 @@
                     "endOffset": 13322
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 90,
                         "startColumn": 1,
@@ -3466,7 +3466,7 @@
                     "endOffset": 13382
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 1,
@@ -3485,7 +3485,7 @@
                     "endOffset": 13447
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 92,
                         "startColumn": 1,
@@ -3504,7 +3504,7 @@
                     "endOffset": 13571
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 1,
@@ -3523,7 +3523,7 @@
                     "endOffset": 13642
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 88,
                         "startColumn": 1,
@@ -3542,7 +3542,7 @@
                     "endOffset": 13703
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 86,
                         "startColumn": 1,
@@ -3561,7 +3561,7 @@
                     "endOffset": 13777
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 85,
                         "startColumn": 1,
@@ -3580,7 +3580,7 @@
                     "endOffset": 13852
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 89,
                         "startColumn": 1,
@@ -3599,7 +3599,7 @@
                     "endOffset": 13888
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 1,
@@ -3618,7 +3618,7 @@
                     "endOffset": 13924
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 1,
@@ -3637,7 +3637,7 @@
                     "endOffset": 14044
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 80,
                         "startColumn": 1,
@@ -3656,7 +3656,7 @@
                     "endOffset": 14101
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 1,
@@ -3675,7 +3675,7 @@
                     "endOffset": 14233
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 1,
@@ -3694,7 +3694,7 @@
                     "endOffset": 14291
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 1,
@@ -3713,7 +3713,7 @@
                     "endOffset": 14372
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 1,
@@ -3732,7 +3732,7 @@
                     "endOffset": 14503
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 1,
@@ -3751,7 +3751,7 @@
                     "endOffset": 14584
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 1,
@@ -3770,7 +3770,7 @@
                     "endOffset": 14667
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/strings.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 1,
@@ -3789,7 +3789,7 @@
                     "endOffset": 14698
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -3808,7 +3808,7 @@
                     "endOffset": 14741
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
@@ -3828,7 +3828,7 @@
                     "endOffset": 14948
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 1,
@@ -3849,7 +3849,7 @@
                     "endOffset": 15188
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
@@ -3870,7 +3870,7 @@
                     "endOffset": 15429
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
@@ -3890,7 +3890,7 @@
                     "endOffset": 15470
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 1,
@@ -3910,7 +3910,7 @@
                     "endOffset": 15675
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 1,
@@ -3931,7 +3931,7 @@
                     "endOffset": 15913
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 1,
@@ -3952,7 +3952,7 @@
                     "endOffset": 16152
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/styles.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 1,
@@ -3973,7 +3973,7 @@
                     "endOffset": 16961
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/themes.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/themes.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -3994,7 +3994,7 @@
                     "endOffset": 17836
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/themes.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/themes.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4015,7 +4015,7 @@
                     "endOffset": 18687
                 },
                 "from": {
-                    "file": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/values/themes.xml",
+                    "file": "/Users/ildarworld/git/muplusplus/app/src/main/res/values/themes.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 8,

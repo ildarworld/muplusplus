@@ -26,13 +26,13 @@ import android.widget.TextView;
 
 import net.appositedesigns.muplusplus.MuPlusPlusApp;
 import net.appositedesigns.muplusplus.R;
-import net.appositedesigns.muplusplus.adapters.FilesArrayAdapter;
+import net.appositedesigns.muplusplus.muAdapters.FilesArrayAdapter;
 import net.appositedesigns.muplusplus.callbacks.CancelOperationCallback;
 import net.appositedesigns.muplusplus.callbacks.FileOperationsCallback;
 import net.appositedesigns.muplusplus.model.FileArrayEntry;
 import net.appositedesigns.muplusplus.model.FileWaiting;
-import net.appositedesigns.muplusplus.util.FileOperationsHelper;
-import net.appositedesigns.muplusplus.util.MuUtil;
+import net.appositedesigns.muplusplus.muUtil.FileOperationsHelper;
+import net.appositedesigns.muplusplus.muUtil.MuUtil;
 import net.appositedesigns.muplusplus.workers.FileMover;
 import net.appositedesigns.muplusplus.workers.Finder;
 

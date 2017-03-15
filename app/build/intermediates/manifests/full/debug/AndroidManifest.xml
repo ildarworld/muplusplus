@@ -15,11 +15,11 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
     <application
-        android:name="net.appositedesigns.fileexplorer.FileExplorerApp"
+        android:name="net.appositedesigns.fileexplorer.MuPlusPlusApp"
         android:icon="@drawable/icon"
         android:label="@string/app_name" >
         <activity
-            android:name="net.appositedesigns.fileexplorer.activity.FileListActivity"
+            android:name="net.appositedesigns.fileexplorer.activity.FilesArrayActivity"
             android:configChanges="orientation"
             android:label="@string/app_name"
             android:theme="@android:style/Theme.Holo.Light"
@@ -44,7 +44,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.appositedesigns.fileexplorer.activity.BookmarkListActivity"
+            android:name="net.appositedesigns.fileexplorer.activity.MuBookmarksActivity"
             android:icon="@drawable/bookmark_icon"
             android:label="@string/bookmarks" >
             <intent-filter>
@@ -54,7 +54,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="net.appositedesigns.fileexplorer.activity.SettingsActivity"
+            android:name="net.appositedesigns.fileexplorer.activity.PreferencesActivity"
             android:label="@string/settings" >
         </activity>
     </application>

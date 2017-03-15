@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/menu/picker_options_menu.xml",
-        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/menu/picker_options_menu.xml"
+        "merged": "/Users/ildarworld/git/muplusplus/app/build/intermediates/res/merged/debug/menu/context_menu.xml",
+        "source": "/Users/ildarworld/git/muplusplus/app/src/main/res/menu/context_menu.xml"
     },
     {
-        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/menu/bookmarks_options_menu.xml",
-        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/menu/bookmarks_options_menu.xml"
+        "merged": "/Users/ildarworld/git/muplusplus/app/build/intermediates/res/merged/debug/menu/options_menu.xml",
+        "source": "/Users/ildarworld/git/muplusplus/app/src/main/res/menu/options_menu.xml"
     },
     {
-        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/menu/context_menu.xml",
-        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/menu/context_menu.xml"
+        "merged": "/Users/ildarworld/git/muplusplus/app/build/intermediates/res/merged/debug/menu/picker_options_menu.xml",
+        "source": "/Users/ildarworld/git/muplusplus/app/src/main/res/menu/picker_options_menu.xml"
     },
     {
-        "merged": "/Users/ildarworld/git/android-file-explorer1/app/build/intermediates/res/merged/debug/menu/options_menu.xml",
-        "source": "/Users/ildarworld/git/android-file-explorer1/app/src/main/res/menu/options_menu.xml"
+        "merged": "/Users/ildarworld/git/muplusplus/app/build/intermediates/res/merged/debug/menu/bookmarks_options_menu.xml",
+        "source": "/Users/ildarworld/git/muplusplus/app/src/main/res/menu/bookmarks_options_menu.xml"
     }
 ]

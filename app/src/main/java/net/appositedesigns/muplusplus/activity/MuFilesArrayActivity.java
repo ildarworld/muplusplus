@@ -1,7 +1,7 @@
 package net.appositedesigns.muplusplus.activity;
 
-import net.appositedesigns.muplusplus.util.BookmarksHelper;
-import net.appositedesigns.muplusplus.util.SettingsHelper;
+import net.appositedesigns.muplusplus.muUtil.BookmarksHelper;
+import net.appositedesigns.muplusplus.muUtil.SettingsHelper;
 import android.app.ListActivity;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
