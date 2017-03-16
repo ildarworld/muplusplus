@@ -2,7 +2,7 @@
 manifest
 ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:2:1-58:12
 	package
-		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:3:5-47
+		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:3:5-45
 		INJECTED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -42,7 +42,7 @@ ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:15:
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:17:9-38
 	android:name
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:16:9-38
-activity#net.appositedesigns.fileexplorer.activity.FilesArrayActivity
+activity#net.appositedesigns.muplusplus.activity.FilesArrayActivity
 ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:19:9-42:20
 	android:label
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:22:13-45
@@ -64,12 +64,12 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:28:17-77
 	android:name
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:28:27-74
-intent-filter#android.intent.category.DEFAULT+net.appositedesigns.fileexplorer.action.OPEN_FOLDER
+intent-filter#android.intent.category.DEFAULT+net.appositedesigns.muplusplus.action.OPEN_FOLDER
 ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:31:13-34:29
-action#net.appositedesigns.fileexplorer.action.OPEN_FOLDER
-ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:32:17-94
+action#net.appositedesigns.muplusplus.action.OPEN_FOLDER
+ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:32:17-92
 	android:name
-		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:32:25-91
+		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:32:25-89
 category#android.intent.category.DEFAULT
 ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:33:17-76
 	android:name
@@ -90,7 +90,7 @@ category#android.intent.category.OPENABLE
 ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:40:17-77
 	android:name
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:40:27-74
-activity#net.appositedesigns.fileexplorer.activity.MuBookmarksActivity
+activity#net.appositedesigns.muplusplus.activity.MuBookmarksActivity
 ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:43:9-51:20
 	android:label
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:46:13-46
@@ -98,13 +98,13 @@ ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:43:
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:44:13-51
 	android:name
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:45:13-57
-intent-filter#android.intent.category.DEFAULT+net.appositedesigns.fileexplorer.action.OPEN_BOOKMARKS
+intent-filter#android.intent.category.DEFAULT+net.appositedesigns.muplusplus.action.OPEN_BOOKMARKS
 ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:47:14-50:29
-action#net.appositedesigns.fileexplorer.action.OPEN_BOOKMARKS
-ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:48:17-97
+action#net.appositedesigns.muplusplus.action.OPEN_BOOKMARKS
+ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:48:17-95
 	android:name
-		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:48:25-94
-activity#net.appositedesigns.fileexplorer.activity.PreferencesActivity
+		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:48:25-92
+activity#net.appositedesigns.muplusplus.activity.PreferencesActivity
 ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:52:9-55:20
 	android:label
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:54:13-45

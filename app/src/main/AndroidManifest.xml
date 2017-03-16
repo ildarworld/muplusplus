@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.appositedesigns.fileexplorer"
+    package="net.appositedesigns.muplusplus"
     android:versionCode="17"
     android:versionName="@string/app_version" 
     android:installLocation="auto">
@@ -29,7 +29,7 @@
             </intent-filter>
             
             <intent-filter>
-                <action android:name="net.appositedesigns.fileexplorer.action.OPEN_FOLDER" />
+                <action android:name="net.appositedesigns.muplusplus.action.OPEN_FOLDER" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             
@@ -45,7 +45,7 @@
             android:name=".activity.MuBookmarksActivity"
             android:label="@string/bookmarks" >
              <intent-filter>
-                <action android:name="net.appositedesigns.fileexplorer.action.OPEN_BOOKMARKS" />
+                <action android:name="net.appositedesigns.muplusplus.action.OPEN_BOOKMARKS" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>

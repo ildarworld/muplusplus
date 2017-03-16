@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-	<string name="app_name">File Explorer</string>
+	<string name="app_name">MuPlusPlus</string>
 	<string name="settings">Preferences</string>
 		<string name="bookmarks">Bookmarks</string>
 	
-	<string name="eula_popup_title">Welcome to File Explorer</string>
-	<string name="eula_popup_text">Thank you for installing FileExplorer, the free, open source, fast, ad-free file manager for Android! Please accept terms and conditions mentioned at http://fileexplorer.appositedesigns.net/eula</string>
+	<string name="eula_popup_title">Welcome to MuPlusPlus</string>
+	<string name="eula_popup_text">Thank you for installing MuPlusPlus, the free, open source, fast, ad-free file manager for Android!</string>
 
 
 	<string name="eula_accept">I accept</string>
@@ -148,7 +148,7 @@
 	<string name="pref_cat_nav_summary">Configure navigation features like back button and quick actions popups</string>
 	
 	<string name="pref_home_folder">Start up folder</string>
-	<string name="pref_home_folder_desc">File explorer will open this folder at when started</string>
+	<string name="pref_home_folder_desc">MuPlusPlus will open this folder at when started</string>
 
 	<string name="pref_showhidden">Show hidden paths</string>
 	<string name="pref_showhidden_on">Hidden files and folders are shown</string>

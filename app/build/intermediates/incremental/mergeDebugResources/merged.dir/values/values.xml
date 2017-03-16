@@ -72,7 +72,7 @@
     <string name="add_bookmark_prompt">Add Bookmark</string>
     <string name="add_bookmark_prompt_hint">Enter directory path eg. /sdcard/foo</string>
     <string name="alarms">Alarms</string>
-    <string name="app_name">File Explorer</string>
+    <string name="app_name">MuPlusPlus</string>
     <string name="app_version">2.4</string>
     <string name="bookmarks">Bookmarks</string>
     <string name="bookmarks_count">Total of %1$s bookmarks</string>
@@ -101,8 +101,8 @@
     <string name="error">Error</string>
     <string name="eula_accept">I accept</string>
     <string name="eula_decline">Decline</string>
-    <string name="eula_popup_text">Thank you for installing FileExplorer, the free, open source, fast, ad-free file manager for Android! Please accept terms and conditions mentioned at http://fileexplorer.appositedesigns.net/eula</string>
-    <string name="eula_popup_title">Welcome to File Explorer</string>
+    <string name="eula_popup_text">Thank you for installing MuPlusPlus, the free, open source, fast, ad-free file manager for Android!</string>
+    <string name="eula_popup_title">Welcome to MuPlusPlus</string>
     <string name="filepath_is">Path: %1$s </string>
     <string name="filesystem">File System</string>
     <string name="filesystem_root">File System Root</string>
@@ -262,7 +262,19 @@
 		<item name="@android:windowEnterAnimation">@anim/grow_from_bottomright_to_topleft</item>
 		<item name="@android:windowExitAnimation">@anim/shrink_from_topleft_to_bottomright</item>
 	</style>
-    <style name="Theme.FileExplorer" parent="android:Theme.Holo">
+    <style name="Theme.FileExplorer.Light.BrownActionBar" parent="android:Theme.Holo.Light.DarkActionBar">
+         <item name="action_icon_navigate">@drawable/ic_action_navigate</item>
+        <item name="action_icon_add">@drawable/ic_action_add</item>
+        <item name="action_icon_rename">@drawable/ic_action_rename</item>
+        <item name="action_icon_refresh">@drawable/ic_action_refresh</item>
+        <item name="action_icon_share">@drawable/ic_action_share</item>
+        <item name="action_icon_cut">@drawable/ic_action_cut</item>
+        <item name="action_icon_copy">@drawable/ic_action_copy</item>
+        <item name="action_icon_delete">@drawable/ic_action_delete</item>
+        <item name="action_icon_paste">@drawable/ic_action_paste</item>
+        <item name="android:listSelector">@drawable/list_item_bg_light</item>
+    </style>
+    <style name="Theme.Muplusplus" parent="android:Theme.Holo">
          <item name="action_icon_navigate">@drawable/ic_action_navigate</item>
         <item name="action_icon_add">@drawable/ic_action_add</item>
         <item name="action_icon_rename">@drawable/ic_action_rename</item>
@@ -274,7 +286,7 @@
         <item name="action_icon_paste">@drawable/ic_action_paste</item>
         <item name="android:listSelector">@drawable/list_item_bg_dark</item>
     </style>
-    <style name="Theme.FileExplorer.Light" parent="android:Theme.Holo.Light">
+    <style name="Theme.Muplusplus.Light" parent="android:Theme.Holo.Light">
         <item name="action_icon_navigate">@drawable/ic_action_navigate_light</item>
         <item name="action_icon_add">@drawable/ic_action_add_light</item>
         <item name="action_icon_rename">@drawable/ic_action_rename_light</item>
@@ -284,18 +296,6 @@
         <item name="action_icon_copy">@drawable/ic_action_copy_light</item>
         <item name="action_icon_delete">@drawable/ic_action_delete_light</item>
         <item name="action_icon_paste">@drawable/ic_action_paste_light</item>
-        <item name="android:listSelector">@drawable/list_item_bg_light</item>
-    </style>
-    <style name="Theme.FileExplorer.Light.BrownActionBar" parent="android:Theme.Holo.Light.DarkActionBar">
-         <item name="action_icon_navigate">@drawable/ic_action_navigate</item>
-        <item name="action_icon_add">@drawable/ic_action_add</item>
-        <item name="action_icon_rename">@drawable/ic_action_rename</item>
-        <item name="action_icon_refresh">@drawable/ic_action_refresh</item>
-        <item name="action_icon_share">@drawable/ic_action_share</item>
-        <item name="action_icon_cut">@drawable/ic_action_cut</item>
-        <item name="action_icon_copy">@drawable/ic_action_copy</item>
-        <item name="action_icon_delete">@drawable/ic_action_delete</item>
-        <item name="action_icon_paste">@drawable/ic_action_paste</item>
         <item name="android:listSelector">@drawable/list_item_bg_light</item>
     </style>
 </resources>
