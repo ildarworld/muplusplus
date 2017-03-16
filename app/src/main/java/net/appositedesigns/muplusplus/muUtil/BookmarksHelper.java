@@ -18,7 +18,7 @@ public final class BookmarksHelper {
 	private Activity mContext;
 	private static List<String> bookmarkedPaths = new ArrayList<String>();
 	public static final String BOOKMARKS = "bookmarks";
-	public static final String BOOKMARKS_FILE = "bookmarks_v2.5";
+	public static final String BOOKMARKS_FILE = "bookmarks_2";
 	
 	public BookmarksHelper(Activity activity)
 	{
