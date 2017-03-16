@@ -48,7 +48,7 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 	
 	private static final String CURRENT_DIR_DIR = "current-dir";
 	
-	private ListView explorerListView;
+	private ListView muListView;
 	private File currentDir;
 	private List<FileArrayEntry> files;
 	private FilesArrayAdapter adapter;
@@ -106,16 +106,16 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 	}
 
 	private void initFileListView() {
-		explorerListView = (ListView) getListView();
+		muListView = (ListView) getListView();
 		adapter = new FilesArrayAdapter(this, files);
-		explorerListView.setAdapter(adapter);
-		explorerListView.setTextFilterEnabled(true);
-		explorerListView.setOnItemClickListener(new OnItemClickListener() {
+		muListView.setAdapter(adapter);
+		muListView.setTextFilterEnabled(true);
+		muListView.setOnItemClickListener(new OnItemClickListener() {
 
 			public void onItemClick(AdapterView<?> parent, View view,
 					int position, long id) {
-				if (explorerListView.isClickable()) {
-					FileArrayEntry file = (FileArrayEntry) explorerListView
+				if (muListView.isClickable()) {
+					FileArrayEntry file = (FileArrayEntry) muListView
 							.getAdapter().getItem(position);
 					select(file.getPath());
 				}
@@ -123,8 +123,8 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 
 		});
 
-		explorerListView.setOnItemLongClickListener(getLongPressListener());
-		registerForContextMenu(explorerListView);		
+		muListView.setOnItemLongClickListener(getLongPressListener());
+		registerForContextMenu(muListView);		
 	}
 
 	private OnItemLongClickListener getLongPressListener() {
@@ -133,7 +133,7 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 			public boolean onItemLongClick(AdapterView<?> arg0,
 					final View view, int arg2, long arg3) {
 
-				if(!explorerListView.isLongClickable())
+				if(!muListView.isLongClickable())
 					return true;
 				if(isPicker)
 				{
@@ -152,7 +152,7 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 						.getPath())) {
 					return false;
 				}
-				explorerListView.setEnabled(false);
+				muListView.setEnabled(false);
 
 				mCurrentActionMode = FilesArrayActivity.this
 						.startActionMode(new FileOperationsCallback(
@@ -163,7 +163,7 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 									ActionMode mode) {
 								view.setSelected(false);
 								mCurrentActionMode = null;
-								explorerListView.setEnabled(true);
+								muListView.setEnabled(true);
 							}
 
 						});
@@ -622,11 +622,11 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 		{
 			int position = files.indexOf(new FileArrayEntry(previousOpenDirChild.getAbsolutePath()));
 			if(position>=0)
-			explorerListView.setSelection(position);
+			muListView.setSelection(position);
 		}
 		else
 		{
-			explorerListView.setSelection(0);
+			muListView.setSelection(0);
 		}
 		mSpinnerAdapter.notifyDataSetChanged();
 		

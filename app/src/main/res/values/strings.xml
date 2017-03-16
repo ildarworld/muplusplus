@@ -139,7 +139,7 @@
 	<string name="pref_cat_display_summary">Set theme, sort order and other view options</string>
 	
 	<string name="pref_cat_misc">Miscellaneous</string>
-	<string name="pref_cat_about">About FileExplorer</string>
+	<string name="pref_cat_about">About MuPlusPlus</string>
 	<string name="pref_cat_contact">Contact</string>
 	<string name="pref_cat_share">Share</string>
 	<string name="pref_cat_misc_summary">About the developer, contact info, terms and conditions</string>
@@ -197,7 +197,7 @@
 	<string name="pref_zipenable_off">Zip &amp; unzip options are hidden</string>
 	
 	<string name="pref_usezipfolder">Use Common Zip folder</string>
-	<string name="pref_usezipfolder_on">Move .zip files created using FileExplorer to a common folder</string>
+	<string name="pref_usezipfolder_on">Move .zip files created using MuPlusPlus to a common folder</string>
 	<string name="pref_usezipfolder_off">Prompt for destination folder each time files are zipped</string>
 	
 	<string name="pref_zip_location">Zip Folder Location</string>
@@ -210,18 +210,18 @@
 	<string name="pref_media_rescan">Rescan Media</string>
 	<string name="pref_media_rescan_desc">Scans external storage for newly added media (photos, audio, video)</string>
 	
-	<string name="pref_rate">Rate FileExplorer</string>
+	<string name="pref_rate">Rate MuPlusPlus</string>
 	<string name="pref_rate_desc">Rate and write a review on the Google Play Store</string>
 		
 	<string name="pref_share">Tell your friends</string>
-	<string name="pref_share_desc">Love FileExplorer? Share it with your friends</string>
-	<string name="share_text">I have been using FileExplorer and thought you might like it too. Heres the download link: https://play.google.com/store/apps/details?id=net.appositedesigns.fileexplorer</string>
+	<string name="pref_share_desc">Love MuPlusPlus? Share it with your friends</string>
+	<string name="share_text">I have been using MuPlusPlus and thought you might like it too.</string>
 	
 	
 	<string name="pref_app_version">Version</string>
 	
 		<string name="pref_twitter">Follow us on Twitter</string>
-		<string name="pref_twitter_desc">FileExplorer</string>
+		<string name="pref_twitter_desc">MuPlusPlus</string>
 	
 	<string name="pref_terms">Terms &amp; Conditions</string>
 	<string name="pref_terms_desc">Read the terms &amp; conditions</string>
