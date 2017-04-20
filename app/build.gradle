@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "net.appositedesigns.fileexplorer"
+        applicationId "ru.innopolis.muplusplus"
         minSdkVersion 14
         targetSdkVersion 14
     }

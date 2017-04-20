@@ -225,10 +225,10 @@
 	
 	<string name="pref_terms">Terms &amp; Conditions</string>
 	<string name="pref_terms_desc">Read the terms &amp; conditions</string>
-	<string name="pref_website">Developer Website</string>
-	<string name="pref_website_desc">Click to visit my website</string>
+	<string name="pref_website">Developers Website</string>
+	<string name="pref_website_desc">Click to visit our Github page</string>
 	<string name="pref_feedback">Send feedback</string>
-	<string name="pref_feedback_desc">Drop me an email. Feedback is most welcome!</string>
+	<string name="pref_feedback_desc">Drop us an email. Feedback is most welcome!</string>
 
 	<string name="filepath_is">Path: %1$s </string>
 	<string name="mtime_is">Last Modified on %1$s</string>

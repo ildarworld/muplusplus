@@ -97,7 +97,7 @@ public class PreferencesActivity extends PreferenceActivity {
 			    	intent.setType("text/plain");
 			    	String text = getString(R.string.share_text);
 			    	intent.putExtra(Intent.EXTRA_TEXT, text);
-			    	intent.putExtra(Intent.EXTRA_SUBJECT, "FileExplorer");
+			    	intent.putExtra(Intent.EXTRA_SUBJECT, "MuPlusPlus");
 
 			    	startActivity(Intent.createChooser(intent,
 			    			getString(R.string.share_via)));

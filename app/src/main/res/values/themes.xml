@@ -27,7 +27,7 @@
         <item name="android:listSelector">@drawable/list_item_bg_dark</item>
     </style>
 
-        <style name="Theme.FileExplorer.Light.BrownActionBar" parent="android:Theme.Holo.Light.DarkActionBar">
+        <style name="Theme.MuPlusPlus.Light.BrownActionBar" parent="android:Theme.Holo.Light.DarkActionBar">
          <item name="action_icon_navigate">@drawable/ic_action_navigate</item>
         <item name="action_icon_add">@drawable/ic_action_add</item>
         <item name="action_icon_rename">@drawable/ic_action_rename</item>
