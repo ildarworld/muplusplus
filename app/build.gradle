@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 16
+    compileSdkVersion 23
     buildToolsVersion "25.0.2"
 
     defaultConfig {
@@ -18,5 +18,5 @@ android {
     }
 }
 dependencies {
-    compile group: 'commons-io', name: 'commons-io', version: '2.4'
+    compile 'commons-io:commons-io:2.4'
 }
