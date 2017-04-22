@@ -39,14 +39,14 @@ public class FileOperationsHelper {
 	
 	public static void copyFile(File file, FilesArrayActivity mContext)
 	{
-		MuUtil.setPasteSrcFile(file, MuUtil.PASTE_MODE_COPY);
+		MuUtil.setPasteSrcFile(file, MuUtil.COPY_MODE);
 		Toast.makeText(mContext.getApplicationContext(), mContext.getString(R.string.copied_toast, file.getName()), Toast.LENGTH_SHORT).show();
 		mContext.invalidateOptionsMenu();
 	}
 	
 	public static void cutFile(final File file, final FilesArrayActivity mContext)
 	{
-		MuUtil.setPasteSrcFile(file, MuUtil.PASTE_MODE_MOVE);
+		MuUtil.setPasteSrcFile(file, MuUtil.MOVE_MODE);
 		Toast.makeText(mContext.getApplicationContext(),  mContext.getString(R.string.cut_toast, file.getName()), Toast.LENGTH_SHORT).show();
 		mContext.invalidateOptionsMenu();
 	}

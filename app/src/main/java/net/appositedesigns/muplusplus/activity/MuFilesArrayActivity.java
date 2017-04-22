@@ -32,12 +32,12 @@ public abstract class MuFilesArrayActivity extends ListActivity {
 			@Override
 			public void onSharedPreferenceChanged(
 					SharedPreferences sharedPreferences, String key) {
-				if (SettingsHelper.PREF_THEME.equals(key)) {
+				if (SettingsHelper.PREFERENCES_THEME.equals(key)) {
 
 					shouldRestartApp = true;
 
 				}
-				if (SettingsHelper.PREF_USE_QUICKACTIONS.equals(key)) {
+				if (SettingsHelper.PREFERENCES_USE_QUICKACTIONS.equals(key)) {
 
 					shouldRestartApp = true;
 

@@ -31,25 +31,25 @@ import java.util.Map;
 public final class MuUtil {
 
 	private static final String TAG = MuUtil.class.getName();
-	private static File COPIED_FILE = null;
+	private static File FILE_COPIED = null;
 	private static int pasteMode = 1;
 	
 	
-	public static final int PASTE_MODE_COPY = 0;
-	public static final int PASTE_MODE_MOVE = 1;
+	public static final int COPY_MODE = 0;
+	public static final int MOVE_MODE = 1;
 	
 	
 	private MuUtil(){}
 	
 	 public static synchronized void setPasteSrcFile(File f, int mode) 
 	  {  
-	         COPIED_FILE = f;  
+	         FILE_COPIED = f;
 	         pasteMode = mode%2; 
 	  }  
 
 	 public static synchronized File getFileToPaste()
 	 {
-		 return COPIED_FILE;
+		 return FILE_COPIED;
 	 }
 	 
 	 public static synchronized int getPasteMode()
@@ -221,7 +221,7 @@ public final class MuUtil {
 		File fileBeingPasted = new File(getFileToPaste().getParent(),getFileToPaste().getName());
 		if(doPaste(mode, getFileToPaste(), destinationDir, flag))
 		{
-			if(getPasteMode() == PASTE_MODE_MOVE)
+			if(getPasteMode() == MOVE_MODE)
 			{
 				if(fileBeingPasted.isFile())
 				{
@@ -296,7 +296,7 @@ public final class MuUtil {
 		}
 		try
 		{
-			if(destDir.getCanonicalPath().startsWith(COPIED_FILE.getCanonicalPath()))
+			if(destDir.getCanonicalPath().startsWith(FILE_COPIED.getCanonicalPath()))
 			{
 				return false;
 			}

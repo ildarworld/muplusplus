@@ -18,11 +18,12 @@ public final class BookmarksHelper {
 	private Activity mContext;
 	private static List<String> bookmarkedPaths = new ArrayList<String>();
 	public static final String BOOKMARKS = "bookmarks";
-	public static final String BOOKMARKS_FILE = "bookmarks_2";
+	public static final String BOOKMARKS_INSTANCE = "bookmarks_2";
 	
 	public BookmarksHelper(Activity activity)
 	{
 		mContext = activity;
+
 		refreshBookmarkCache();
 	}
 	
@@ -33,7 +34,7 @@ public final class BookmarksHelper {
 			@Override
 			public void run() {
 				final String bookmarkCsv = mContext.getSharedPreferences(
-						BOOKMARKS_FILE, Context.MODE_PRIVATE).getString(
+						BOOKMARKS_INSTANCE, Context.MODE_PRIVATE).getString(
 						BOOKMARKS, "");
 	
 				StringTokenizer tokens = new StringTokenizer(bookmarkCsv, "\n");
@@ -50,7 +51,7 @@ public final class BookmarksHelper {
 				if (!found) {
 	
 					SharedPreferences.Editor editor = mContext
-							.getSharedPreferences(BOOKMARKS_FILE,
+							.getSharedPreferences(BOOKMARKS_INSTANCE,
 									Context.MODE_PRIVATE).edit();
 					editor.putString(BOOKMARKS, bookmarkCsv + "\n" + path);
 					editor.commit();
@@ -77,7 +78,7 @@ public final class BookmarksHelper {
 
 	public List<FileArrayEntry> getBookmarks() {
 	
-		String bookmarkCsv = mContext.getSharedPreferences(BOOKMARKS_FILE,
+		String bookmarkCsv = mContext.getSharedPreferences(BOOKMARKS_INSTANCE,
 				Context.MODE_PRIVATE).getString(BOOKMARKS, "");
 	
 		StringTokenizer tokens = new StringTokenizer(bookmarkCsv, "\n");
@@ -102,7 +103,7 @@ public final class BookmarksHelper {
 	}
 
 	private void refreshBookmarkCache() {
-		String bookmarkCsv = mContext.getSharedPreferences(BOOKMARKS_FILE,
+		String bookmarkCsv = mContext.getSharedPreferences(BOOKMARKS_INSTANCE,
 				Context.MODE_PRIVATE).getString(BOOKMARKS, "");
 	
 		StringTokenizer tokens = new StringTokenizer(bookmarkCsv, "\n");
@@ -129,7 +130,7 @@ public final class BookmarksHelper {
             @Override
             protected String doInBackground(String... strings) {
                 String bookmarkCsv = mContext.getSharedPreferences(
-                        BOOKMARKS_FILE, Context.MODE_PRIVATE).getString(
+                        BOOKMARKS_INSTANCE, Context.MODE_PRIVATE).getString(
                         BOOKMARKS, "");
 
                 StringTokenizer tokens = new StringTokenizer(bookmarkCsv, "\n");
@@ -145,7 +146,7 @@ public final class BookmarksHelper {
                 }
 
                 SharedPreferences.Editor editor = mContext
-                        .getSharedPreferences(BOOKMARKS_FILE,
+                        .getSharedPreferences(BOOKMARKS_INSTANCE,
                                 Context.MODE_PRIVATE).edit();
                 editor.putString(BOOKMARKS, buffer.toString());
                 editor.commit();

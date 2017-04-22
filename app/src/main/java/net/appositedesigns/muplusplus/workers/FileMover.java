@@ -33,7 +33,7 @@ public class FileMover extends AsyncTask<File, Integer, Boolean>
 		Log.v(TAG, "Inside post execute. Result of paste operation is - "+result);
 		if(result)
 		{
-			if(mode== MuUtil.PASTE_MODE_MOVE)
+			if(mode== MuUtil.MOVE_MODE)
 			{
 				Log.v(TAG, "Paste mode was MOVE - set src file to null");
 				MuUtil.setPasteSrcFile(null, 0);
@@ -46,7 +46,7 @@ public class FileMover extends AsyncTask<File, Integer, Boolean>
 					{
 						moveProgressDialog.dismiss();
 					}
-					if(mode== MuUtil.PASTE_MODE_COPY)
+					if(mode== MuUtil.COPY_MODE)
 					{
 						Toast.makeText(caller.getApplicationContext(), caller.getString(R.string.copy_complete), Toast.LENGTH_LONG);
 					}
@@ -90,7 +90,7 @@ public class FileMover extends AsyncTask<File, Integer, Boolean>
 			public void run() {
 				
 				String message = caller.getString(R.string.copying_path, MuUtil.getFileToPaste().getName());
-				if(mode== MuUtil.PASTE_MODE_MOVE)
+				if(mode== MuUtil.MOVE_MODE)
 				{
 					message = 
 						caller.getString(R.string.moving_path, MuUtil.getFileToPaste().getName());

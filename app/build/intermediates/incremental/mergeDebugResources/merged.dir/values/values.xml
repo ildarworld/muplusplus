@@ -73,7 +73,7 @@
     <string name="add_bookmark_prompt_hint">Enter directory path eg. /sdcard/foo</string>
     <string name="alarms">Alarms</string>
     <string name="app_name">MuPlusPlus</string>
-    <string name="app_version">2.4</string>
+    <string name="app_version">1.0</string>
     <string name="bookmarks">Bookmarks</string>
     <string name="bookmarks_count">Total of %1$s bookmarks</string>
     <string name="bookmarks_count_0">No bookmarks</string>
@@ -136,7 +136,7 @@
     <string name="path_not_exist">Sorry. The directory could not be found</string>
     <string name="pick_file">Pick a file</string>
     <string name="pref_app_version">Version</string>
-    <string name="pref_cat_about">About FileExplorer</string>
+    <string name="pref_cat_about">About MuPlusPlus</string>
     <string name="pref_cat_contact">Contact</string>
     <string name="pref_cat_display">Display Options</string>
     <string name="pref_cat_display_summary">Set theme, sort order and other view options</string>
@@ -155,18 +155,18 @@
     <string name="pref_dirsfirst_off_desc">Will not give preference to directories in sorting</string>
     <string name="pref_dirsfirst_on_desc">Will show directories on top</string>
     <string name="pref_feedback">Send feedback</string>
-    <string name="pref_feedback_desc">Drop me an email. Feedback is most welcome!</string>
+    <string name="pref_feedback_desc">Drop us an email. Feedback is most welcome!</string>
     <string name="pref_home_folder">Start up folder</string>
-    <string name="pref_home_folder_desc">File explorer will open this folder at when started</string>
+    <string name="pref_home_folder_desc">MuPlusPlus will open this folder at when started</string>
     <string name="pref_media_rescan">Rescan Media</string>
     <string name="pref_media_rescan_desc">Scans external storage for newly added media (photos, audio, video)</string>
     <string name="pref_quickactions">Use Quick Actions</string>
     <string name="pref_quickactions_off">Do not quick actions</string>
     <string name="pref_quickactions_on">Enable legacy quick actions context menu</string>
-    <string name="pref_rate">Rate FileExplorer</string>
+    <string name="pref_rate">Rate MuPlusPlus</string>
     <string name="pref_rate_desc">Rate and write a review on the Google Play Store</string>
     <string name="pref_share">Tell your friends</string>
-    <string name="pref_share_desc">Love FileExplorer? Share it with your friends</string>
+    <string name="pref_share_desc">Love MuPlusPlus? Share it with your friends</string>
     <string name="pref_show_dir_sizes">Show folder sizes</string>
     <string name="pref_show_dir_sizes_off_desc">Folder sizes are not shown</string>
     <string name="pref_show_dir_sizes_on_desc">Folder sizes are rolled up</string>
@@ -188,15 +188,15 @@
     <string name="pref_theme_desc">Select app theme</string>
     <string name="pref_theme_title">Choose Theme</string>
     <string name="pref_twitter">Follow us on Twitter</string>
-    <string name="pref_twitter_desc">FileExplorer</string>
+    <string name="pref_twitter_desc">MuPlusPlus</string>
     <string name="pref_use_back">Back button navigation</string>
     <string name="pref_use_back_off">Do not use phone back button to navigate within app</string>
     <string name="pref_use_back_on">Uses phone back button navigate up to parent folder</string>
     <string name="pref_usezipfolder">Use Common Zip folder</string>
     <string name="pref_usezipfolder_off">Prompt for destination folder each time files are zipped</string>
-    <string name="pref_usezipfolder_on">Move .zip files created using FileExplorer to a common folder</string>
-    <string name="pref_website">Developer Website</string>
-    <string name="pref_website_desc">Click to visit my website</string>
+    <string name="pref_usezipfolder_on">Move .zip files created using MuPlusPlus to a common folder</string>
+    <string name="pref_website">Developers Website</string>
+    <string name="pref_website_desc">Click to visit our Github page</string>
     <string name="pref_zip_location">Zip Folder Location</string>
     <string name="pref_zip_location_desc">Zipped files and folders will be kept at this location</string>
     <string name="pref_zipenable">Zip &amp; Unzip</string>
@@ -211,7 +211,7 @@
     <string name="run_in_background">Run in Background</string>
     <string name="selected_">Selected %1$s</string>
     <string name="settings">Preferences</string>
-    <string name="share_text">I have been using FileExplorer and thought you might like it too. Heres the download link: https://play.google.com/store/apps/details?id=net.appositedesigns.fileexplorer</string>
+    <string name="share_text">I have been using MuPlusPlus and thought you might like it too.</string>
     <string name="share_via">Share via</string>
     <string name="size_is">Size: %1$s</string>
     <string name="success">Success</string>
@@ -262,7 +262,7 @@
 		<item name="@android:windowEnterAnimation">@anim/grow_from_bottomright_to_topleft</item>
 		<item name="@android:windowExitAnimation">@anim/shrink_from_topleft_to_bottomright</item>
 	</style>
-    <style name="Theme.FileExplorer.Light.BrownActionBar" parent="android:Theme.Holo.Light.DarkActionBar">
+    <style name="Theme.MuPlusPlus.Light.BrownActionBar" parent="android:Theme.Holo.Light.DarkActionBar">
          <item name="action_icon_navigate">@drawable/ic_action_navigate</item>
         <item name="action_icon_add">@drawable/ic_action_add</item>
         <item name="action_icon_rename">@drawable/ic_action_rename</item>

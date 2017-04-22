@@ -46,7 +46,7 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 
 	private static final String TAG = FilesArrayActivity.class.getName();
 	
-	private static final String CURRENT_DIR_DIR = "current-dir";
+	private static final String CURRENT_DIR = "current-dir";
 	
 	private ListView muListView;
 	private File currentDir;
@@ -66,7 +66,7 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 	public void onCreate(Bundle savedInstanceState) {
 
 		app = (MuPlusPlusApp)getApplication();
-		isPicker = getIntent().getBooleanExtra(MuPlusPlusApp.EXTRA_IS_PICKER, false);
+		isPicker = getIntent().getBooleanExtra(MuPlusPlusApp.INSTANCE_IS_PICKER, false);
 		if(Intent.ACTION_GET_CONTENT.equals(getIntent().getAction()))
 		{
 			isPicker  = true;
@@ -177,20 +177,20 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 	private void initRootDir(Bundle savedInstanceState) {
 		// If app was restarted programmatically, find where the user last left
 		// it
-		String restartDirPath = getIntent().getStringExtra(MuPlusPlusApp.EXTRA_FOLDER);
+		String restartDirPath = getIntent().getStringExtra(MuPlusPlusApp.ADDITIONAL_FOLDER);
 		
 		if (restartDirPath != null) 
 		{
 			File restartDir = new File(restartDirPath);
 			if (restartDir.exists() && restartDir.isDirectory()) {
 				currentDir = restartDir;
-				getIntent().removeExtra(MuPlusPlusApp.EXTRA_FOLDER);
+				getIntent().removeExtra(MuPlusPlusApp.ADDITIONAL_FOLDER);
 			}
 		}
-		else if (savedInstanceState!=null && savedInstanceState.getSerializable(CURRENT_DIR_DIR) != null) {
+		else if (savedInstanceState!=null && savedInstanceState.getSerializable(CURRENT_DIR) != null) {
 			
 			currentDir = new File(savedInstanceState
-					.getSerializable(CURRENT_DIR_DIR).toString());
+					.getSerializable(CURRENT_DIR).toString());
 		} 
 		else 
 		{
@@ -201,7 +201,7 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 	protected void onSaveInstanceState(Bundle outState) {
 		super.onSaveInstanceState(outState);
 
-		outState.putSerializable(CURRENT_DIR_DIR, currentDir.getAbsolutePath());
+		outState.putSerializable(CURRENT_DIR, currentDir.getAbsolutePath());
 
 	}
 
@@ -273,21 +273,21 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 	}
 	private void openBookmarks(final ActionBar actionBar) {
 		Intent intent = new Intent();
-		intent.setAction(MuPlusPlusApp.ACTION_OPEN_BOOKMARK);
+		intent.setAction(MuPlusPlusApp.OPENBOOKMARK_ACTION);
 		intent.addCategory(Intent.CATEGORY_DEFAULT);
-		intent.putExtra(MuPlusPlusApp.EXTRA_IS_PICKER, isPicker);
+		intent.putExtra(MuPlusPlusApp.INSTANCE_IS_PICKER, isPicker);
 		actionBar.setSelectedNavigationItem(0);
-		startActivityForResult(intent, MuPlusPlusApp.REQ_PICK_BOOKMARK);
+		startActivityForResult(intent, MuPlusPlusApp.BOOKMARK_REQPICK);
 	}
 
 	@Override
 	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 		
 		switch (requestCode) {
-		case MuPlusPlusApp.REQ_PICK_BOOKMARK:
+		case MuPlusPlusApp.BOOKMARK_REQPICK:
 			if(resultCode == RESULT_OK)
 			{
-				String selectedBookmark = data.getStringExtra(MuPlusPlusApp.EXTRA_SELECTED_BOOKMARK);
+				String selectedBookmark = data.getStringExtra(MuPlusPlusApp.BOOKMARK_ADDITIONAL_SELECTED);
 				listContents(new File(selectedBookmark));
 			}
 			break;
@@ -654,7 +654,7 @@ public class FilesArrayActivity extends MuFilesArrayActivity {
 		Intent i = getBaseContext().getPackageManager()
 				.getLaunchIntentForPackage(getBaseContext().getPackageName());
 		i.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-		i.putExtra(MuPlusPlusApp.EXTRA_FOLDER, currentDir.getAbsolutePath());
+		i.putExtra(MuPlusPlusApp.ADDITIONAL_FOLDER, currentDir.getAbsolutePath());
 		startActivity(i);
 	}
 	

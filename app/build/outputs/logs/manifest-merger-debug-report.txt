@@ -6,7 +6,7 @@ ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:2:1
 		INJECTED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:5:5-46
+		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:5:5-30
 		INJECTED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml
 	android:versionCode
@@ -39,7 +39,7 @@ ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:15:
 	android:label
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:18:9-41
 	android:icon
-		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:17:9-38
+		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:17:9-41
 	android:name
 		ADDED from /Users/ildarworld/git/muplusplus/app/src/main/AndroidManifest.xml:16:9-38
 activity#net.appositedesigns.muplusplus.activity.FilesArrayActivity

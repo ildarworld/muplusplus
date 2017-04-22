@@ -45,7 +45,7 @@ public class MuBookmarksActivity extends MuFilesArrayActivity {
 		super.onCreate(savedInstanceState);
 		getActionBar().setDisplayHomeAsUpEnabled(true);
 		setContentView(R.layout.main);
-		isPicker = getIntent().getBooleanExtra(MuPlusPlusApp.EXTRA_IS_PICKER, false);
+		isPicker = getIntent().getBooleanExtra(MuPlusPlusApp.INSTANCE_IS_PICKER, false);
 		bookmarks = new ArrayList<FileArrayEntry>();
 		initBookmarksList();
 		refresh();
@@ -136,8 +136,8 @@ public class MuBookmarksActivity extends MuFilesArrayActivity {
 	
 	protected void select(File path) {
 		Intent intent = new Intent();
-		intent.putExtra(MuPlusPlusApp.EXTRA_SELECTED_BOOKMARK, path.getAbsolutePath());
-		intent.putExtra(MuPlusPlusApp.EXTRA_IS_PICKER, isPicker);
+		intent.putExtra(MuPlusPlusApp.BOOKMARK_ADDITIONAL_SELECTED, path.getAbsolutePath());
+		intent.putExtra(MuPlusPlusApp.INSTANCE_IS_PICKER, isPicker);
 		setResult(Activity.RESULT_OK, intent);
 		finish();
 	}

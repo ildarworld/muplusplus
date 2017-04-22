@@ -2,7 +2,7 @@ package net.appositedesigns.muplusplus.exception;
 
 public class PathInvalidException extends Exception {
 
-	private static final long serialVersionUID = -4046926680600982016L;
+	private static final long VersionUID = -4046926680600982016L;
 	
 	private String location;
 
